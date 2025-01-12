@@ -5,7 +5,7 @@ Created by musti on 12.01.2025
 This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
      
-Kredi Kartindan Dogru Bilgilerle Hesaba Para Yukleme
+TC005: Kredi Kartindan Dogru Bilgilerle Hesaba Para Yukleme
 ---------------
 Tags:Kredi kartindan dogru bilgilerle hesaba para yukleme
 * Login with username "mustafa.uygur@testinium.com" and password "x3azF6w(usKdsP5q"
@@ -15,7 +15,7 @@ Tags:Kredi kartindan dogru bilgilerle hesaba para yukleme
 * Check if amount is "1,100.00"
 
 
-Kredi Kartindan Hatali Card No Ile Hesaba Para Yukleme
+TC006: Kredi Kartindan Hatali Card No Ile Hesaba Para Yukleme
 ---------------
 Tags:Kredi kartindan hatali card no ile hesaba para yukleme
 * Login with username "mustafa.uygur@testinium.com" and password "x3azF6w(usKdsP5q"
@@ -24,7 +24,7 @@ Tags:Kredi kartindan hatali card no ile hesaba para yukleme
 * Wait "2" seconds
 * Check if amount is "1,100.00"
 
-Kredi Kartindan Hatali Date Ile Hesaba Para Yukleme
+TC007: Kredi Kartindan Hatali Date Ile Hesaba Para Yukleme
 ---------------
 Tags:Kredi kartindan hatali date ile hesaba para yukleme
 * Login with username "mustafa.uygur@testinium.com" and password "x3azF6w(usKdsP5q"
@@ -33,7 +33,7 @@ Tags:Kredi kartindan hatali date ile hesaba para yukleme
 * Wait "2" seconds
 * Check if amount is "1,100.00"
 
-Kredi Kartindan Hatali CVV Ile Hesaba Para Yukleme
+TC008: Kredi Kartindan Hatali CVV Ile Hesaba Para Yukleme
 ---------------
 Tags:Kredi kartindan hatali CVV ile hesaba para yukleme
 * Login with username "mustafa.uygur@testinium.com" and password "x3azF6w(usKdsP5q"
@@ -42,7 +42,7 @@ Tags:Kredi kartindan hatali CVV ile hesaba para yukleme
 * Wait "2" seconds
 * Check if amount is "1,100.00"
 
-Kredi Kartindan Eksi Deger Ile Hesaba Para Yukleme
+TC009: Kredi Kartindan Eksi Deger Ile Hesaba Para Yukleme
 ---------------
 Tags:Kredi kartindan eksi deger ile hesaba para yukleme
 
@@ -53,7 +53,7 @@ Tags:Kredi kartindan eksi deger ile hesaba para yukleme
 * Check if amount is "1,100.00"
 
 
-Kredi Kartindan Required Alan Kontrolu
+TC010: Kredi Kartindan Required Alan Kontrolu
 ---------------
 Tags:Kredi kartindan hesaba basarili para yukleme
 
@@ -63,7 +63,7 @@ Tags:Kredi kartindan hesaba basarili para yukleme
 * Wait "2" seconds
 * Verify required field messages
 
-Kredi Karti Amount Alanina Harf Girme Kontrolu
+TC011: Kredi Karti Amount Alanina Harf Girme Kontrolu
 ---------------
 Tags:Kredi Karti Amount Alanina Harf Girme Kontrolu
 * Login with username "mustafa.uygur@testinium.com" and password "x3azF6w(usKdsP5q"
