@@ -7,6 +7,6 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 Login Olma
 ----------
-Tags: Basarili Login Senaryosu
+Tags: @login, @smoke, @critical
 * Login with username "mustafa.uygur@testinium.com" and password "x3azF6w(usKdsP5q"
 * Click to element "OpenMoneyTransfer"

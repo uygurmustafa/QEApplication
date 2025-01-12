@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 Hesap adini guncelleme
 ---------------
-Tags: Hesap adini basarili guncelleme
+Tags: @account, @update
 * Login with username "mustafa.uygur@testinium.com" and password "x3azF6w(usKdsP5q"
 * Click to element "OpenMoneyTransfer"
 * Update account name to "mustafa.uygur@testinium.com"

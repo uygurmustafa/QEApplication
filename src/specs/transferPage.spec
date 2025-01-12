@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 
 Transfer Alanina Eksi deger girme
 ---------------
-Tags:Transfer alanina eksi deger girme
+Tags:@transfer, @negative, @validation
 * Login with username "mustafa.uygur@testinium.com" and password "x3azF6w(usKdsP5q"
 * Click to element "OpenMoneyTransfer"
 * Initiate money transfer
@@ -16,7 +16,7 @@ Tags:Transfer alanina eksi deger girme
 
 Transfer Alanina Para Miktari Transfer Etme
 ---------------
-Tags:Transfer alanina para miktari tranfer etme
+Tags:@transfer, @money, @critical
 * Login with username "mustafa.uygur@testinium.com" and password "x3azF6w(usKdsP5q"
 * Click to element "OpenMoneyTransfer"
 * Initiate money transfer
