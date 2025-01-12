@@ -35,12 +35,6 @@
     </dependency>
 
     <dependency>
-      <groupId>ru.yandex.qatools.ashot</groupId>
-      <artifactId>ashot</artifactId>
-      <version>1.5.4</version>
-    </dependency>
-
-    <dependency>
       <groupId>io.qameta.allure</groupId>
       <artifactId>allure-junit5</artifactId>
       <version>${allure.version}</version>
@@ -71,18 +65,20 @@
       <version>${selenium.version}</version>
       <scope>test</scope>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-    <!--        <dependency>-->
-    <!--            <groupId>mysql</groupId>-->
-    <!--            <artifactId>mysql-connector-java</artifactId>-->
-    <!--            <version>8.0.21</version>-->
-    <!--        </dependency>-->
-    <!--        <dependency>-->
-    <!--            <groupId>com.microsoft.sqlserver</groupId>-->
-    <!--            <artifactId>mssql-jdbc</artifactId>-->
-    <!--            <version>8.2.2.jre11</version>-->
-    <!--        </dependency>-->
     <dependency>
+      <groupId>ru.yandex.qatools.ashot</groupId>
+      <artifactId>ashot</artifactId>
+      <version>1.5.4</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.deque</groupId>
+      <artifactId>axe-selenium</artifactId>
+      <version>3.0</version>
+    </dependency>
+    <dependency>
+
+
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-log4j12</artifactId>
       <version>${log4j.version}</version>
