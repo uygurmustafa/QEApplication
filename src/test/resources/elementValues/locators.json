@@ -1,0 +1,114 @@
+[
+  {
+    "key": "Username",
+    "value": "//*[@id=\"root\"]/div/div[2]/div/div[1]/div/div/div[2]/div/input",
+    "type": "xpath"
+  },
+  {
+    "key": "Password",
+    "value": "//*[@id=\"root\"]/div/div[2]/div/div[1]/div/div/div[3]/div/input",
+    "type": "xpath"
+  },
+  {
+    "key": "Button",
+    "value": "//*[@id=\"root\"]/div/div[2]/div/div[1]/div/div/div[4]/div",
+    "type": "xpath"
+  },
+  {
+    "key": "OpenMoneyTransfer",
+    "value": "//*[@id=\"root\"]/div/div[2]/div/div[1]/div/div/div/div[2]/div",
+    "type": "xpath"
+  },
+  {
+    "key": "EditAccountButton",
+    "value": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[7]/div[3]/div",
+    "type": "xpath"
+  },
+  {
+    "key": "AccountNameUpdateText",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div/div/div[3]/input",
+    "type": "xpath"
+  },
+  {
+    "key": "AccountNameUpdateButton",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div/div/div[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "AccountNameCheck",
+    "value": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[3]/div[1]/div[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyButton",
+    "value": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[7]/div[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "CardNumberText",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[2]/input",
+    "type": "xpath"
+  },
+  {
+    "key": "CardHolderNameText",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[4]/input",
+    "type": "xpath"
+  },
+  {
+    "key": "CardExpireDateText",
+    "value": "//input[@placeholder='MM/YY']",
+    "type": "xpath"
+  },
+  {
+    "key": "CVVText",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[6]/div[2]/div/input",
+    "type": "xpath"
+  },
+  {
+    "key": "AmountText",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[8]/input",
+    "type": "xpath"
+  },
+  {
+    "key": "AddButton",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[10]",
+    "type": "xpath"
+  },  {
+    "key": "AmountCheck",
+    "value": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[6]/div/div[1]/div/div/div/div[4]/div[2]/div",
+    "type": "xpath"
+  },{
+    "key": "RequiredCardNo",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[2]/div[2]",
+    "type": "xpath"
+  },{
+    "key": "RequiredCardHolderName",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[4]/div[2]",
+    "type": "xpath"
+  },{
+    "key": "RequiredCardExpireDate",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[6]/div[1]/div/div[2]",
+    "type": "xpath"
+  },{
+    "key": "RequiredCardCVV",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[6]/div[2]/div/div[2]",
+    "type": "xpath"
+  },{
+    "key": "JustNumberWarning",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[8]/div[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "TransferMoneyButton",
+    "value": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[7]/div[1]/div",
+    "type": "xpath"
+  },  {
+    "key": "TransferMoneyAmountText",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[11]/input",
+    "type": "xpath"
+  },{
+    "key": "SendButton",
+    "value": "/html/body/div[4]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[13]",
+    "type": "xpath"
+  }
+]
